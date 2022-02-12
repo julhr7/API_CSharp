@@ -8,6 +8,7 @@ namespace Data
 {
     public class Conexion
     {
-        public static string cn = "server=192.168.1.34,1433;database=Prueba;uid=sa;pwd=1053;";
+        public static string cn = "server=ip,port;database=Prueba;uid=user;pwd=password;";
     }
 }
+ 

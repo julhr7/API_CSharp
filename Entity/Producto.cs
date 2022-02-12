@@ -14,3 +14,4 @@ namespace Entity
         public string fechRegistroProducto { get; set; }
     }
 }
+ 
